@@ -42,7 +42,7 @@ CREATE TABLE IF NOT EXISTS `admin` (
 --
 
 INSERT INTO `admin` (`id`, `name`, `email`, `password`) VALUES
-(1, 'Zakia Rahman Onti', 'zakia@gmail.com', '123456');
+(1, 'Sowat Hossain Rafi', 'sowat.hossain.rafi@g.bracu.ac.bd', '123456');
 
 -- --------------------------------------------------------
 
